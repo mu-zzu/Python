@@ -1,0 +1,5 @@
+l=list(map(int,input("enter the list").split()))
+largest=max(l)
+smallest=min(l)
+print("largest number is:",largest)
+print("smallest number is:",smallest)
